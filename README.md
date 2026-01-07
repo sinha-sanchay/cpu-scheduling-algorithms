@@ -3,11 +3,12 @@
 This project implements and compares core **CPU scheduling algorithms** using a fixed set of processes.  
 The goal is to demonstrate scheduling behavior, execution order, and performance metrics in a clear, reproducible way.
 
-## Implemented Algorithms
-- First Come First Serve (FCFS)
-- Shortest Job First (SJF) – Non-Preemptive
-- Priority Scheduling – Non-Preemptive
-- Round Robin (Time Quantum = 2)
+## Implemented Scheduling Algorithms
+
+- **First Come First Serve (FCFS)** — *Non-Preemptive*
+- **Shortest Job First (SJF)** — *Non-Preemptive*
+- **Priority Scheduling** — *Non-Preemptive*
+- **Round Robin (Time Quantum = 2)** — *Preemptive*
 
 ## Features
 - Gantt Chart visualization (text-based)
