@@ -20,11 +20,11 @@ The goal is to demonstrate scheduling behavior, execution order, and performance
 ## Sample Output
 
 
-![](screenshots/fcfs.png)
+![](screenshots/1.png)
 
-![](screenshots/sjf.png)
+![](screenshots/2.png)
 
-![](screenshots/rr.png)
+![](screenshots/3.png)
 
 
 ## Use Case
